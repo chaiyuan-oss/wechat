@@ -1,0 +1,15 @@
+{
+    "name": "chaiyuan/wechat",
+    "description": "微信全系列sdk",
+    "type": "library",
+    "require": {
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chaiyuan",
+            "email": "chaiyuan@chaidada.cn"
+        }
+    ]
+}
